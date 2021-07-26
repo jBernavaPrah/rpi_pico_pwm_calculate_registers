@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.js": "/rpi_pico_pwm_calculate_registers/static/js/main.ce0e9a2a.chunk.js",
+    "main.js.map": "/rpi_pico_pwm_calculate_registers/static/js/main.ce0e9a2a.chunk.js.map",
+    "runtime-main.js": "/rpi_pico_pwm_calculate_registers/static/js/runtime-main.becae6f4.js",
+    "runtime-main.js.map": "/rpi_pico_pwm_calculate_registers/static/js/runtime-main.becae6f4.js.map",
+    "static/css/2.fb17aa6d.chunk.css": "/rpi_pico_pwm_calculate_registers/static/css/2.fb17aa6d.chunk.css",
+    "static/js/2.856a9f63.chunk.js": "/rpi_pico_pwm_calculate_registers/static/js/2.856a9f63.chunk.js",
+    "static/js/2.856a9f63.chunk.js.map": "/rpi_pico_pwm_calculate_registers/static/js/2.856a9f63.chunk.js.map",
+    "static/js/3.14fc608f.chunk.js": "/rpi_pico_pwm_calculate_registers/static/js/3.14fc608f.chunk.js",
+    "static/js/3.14fc608f.chunk.js.map": "/rpi_pico_pwm_calculate_registers/static/js/3.14fc608f.chunk.js.map",
+    "index.html": "/rpi_pico_pwm_calculate_registers/index.html",
+    "static/css/2.fb17aa6d.chunk.css.map": "/rpi_pico_pwm_calculate_registers/static/css/2.fb17aa6d.chunk.css.map",
+    "static/js/2.856a9f63.chunk.js.LICENSE.txt": "/rpi_pico_pwm_calculate_registers/static/js/2.856a9f63.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.becae6f4.js",
+    "static/css/2.fb17aa6d.chunk.css",
+    "static/js/2.856a9f63.chunk.js",
+    "static/js/main.ce0e9a2a.chunk.js"
+  ]
+}
